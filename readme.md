@@ -10,7 +10,7 @@ Data required minimal cleaning, just some minor formatting of column titles.
 
 As the data only had entries for a 29 day period and didn't appear to be normally distributed when plotted, it was decided to Bootstrap the data with replacement to estimate the Population mean and standard deviation.
 
-# A/B Experiment Length
+## A/B Experiment Length
 
 On average this website receives about 3250 unique visitors per day. Therefore, in order to accurately test both the Download and the License Experiments we would require at least 21 days. The experiment has been run for 29 days which is acceptable.
 
